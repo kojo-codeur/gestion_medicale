@@ -1,6 +1,6 @@
 # 🏥 MedSystem - Application Web de Gestion Médicale
 
-![Version](https://img.shields.io/github/v/release/kojo-codeur/gestion_medicale?filename=README.md?style=for-the-badge&logo=github&logoColor=white&label=Version)
+![Version](https://img.shields.io/github/v/release/kojo-codeur/gestion_medicale?style=for-the-badge&logo=github&logoColor=white&label=Version)
 ![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge&logo=opensourceinitiative&logoColor=white)
 ![PHP Version](https://img.shields.io/badge/PHP-8.2-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL Version](https://img.shields.io/badge/MySQL-8.0-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
